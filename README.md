@@ -1,4 +1,3 @@
-# AI-ASISTEN-ADMINISTRASI-AKADEMIK
 # Kelompok AI
 * Samuel Felix Silitonga (233303030327)
 * Josua Tarigan (223303030335)	
